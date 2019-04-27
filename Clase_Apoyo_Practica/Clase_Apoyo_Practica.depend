@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556378824 source:c:\users\alumno\desktop\clase_apoyo_practica\codigosc.c
+	<stdio.h>
+	<stdlib.h>
+	"CodigosH.h"
+
+1556379801 c:\users\alumno\desktop\clase_apoyo_practica\codigosh.h
+
+1556379447 source:c:\users\alumno\desktop\clase_apoyo_practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CodigosH.h"
+
